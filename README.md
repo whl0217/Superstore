@@ -1,8 +1,4 @@
 ## Superstore dashboard
 
-
-
-### To view the dashboard go to:
-
-[Superstore](https://whl0217.github.io/Superstore/)
+[Superstore](https://public.tableau.com/app/profile/wang.han.li/viz/SuperstoreDashboard_16430675854600/SuperStore?publish=yes)
 
